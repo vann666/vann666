@@ -1,32 +1,19 @@
-<!-- WAVE HEADER WITH GRADIENT -->
-<style>
-  .wave-background {
-    background: linear-gradient(45deg, #1a2a6c, #b21f1f, #fdbb2d);
-    background-size: 400% 400%;
-    animation: gradient-animation 10s ease infinite;
-  }
-
-  @keyframes gradient-animation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
-<div class="wave-background">
+<!-- WAVE HEADER -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/vann666/vann666/main/assets/wave-dark.svg" width="100%" height="150px"/>
-</div>
+</p>
 
 <h1 align="center">Hi 👋, I'm Vann</h1>
 <h3 align="center">🚀 Fullstack Developer who loves crafting frontend and backend solutions</h3>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;React+%7C+Svelte+%7C+Node.js;Clean+Code+%7C+Dark+Themes+%7C+Pixel+Perfect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Fullstack+Web+Developer;React+%7C+Svelte+%7C+Node.js;Dark+Themes+%7C+Clean+Code+%7C+Pixel+Perfect" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me ✨
 
 - 💻 Fullstack Web Developer (Frontend heavy)
 - 🔭 Working on freelance projects and portfolio apps
@@ -34,6 +21,8 @@
 - 🧰 Favorite tools: `React`, `Svelte`, `TailwindCSS`, `Express`, `MongoDB`
 - 🌐 Portfolio: [devbyvann.com](https://devbyvann.com)
 - 📫 Email: vann666.dev@gmail.com
+- 🌟 Fun fact: I'm powered by dark mode and strong coffee!  
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/star.gif" width="20px" />
 
 ---
 
@@ -41,6 +30,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,nodejs,express,tailwind,postgres,mongodb,git,docker,vscode,figma" />
+</p>
+
+<!-- Mini spinner animation -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Gray_circles_rotate.gif" width="40px" />
 </p>
 
 ---
@@ -57,6 +51,14 @@
 
 ---
 
+### ✨ Fun SVG Animation
+
+<p align="center">
+  <img src="https://svgur.com/i/134V.svg" width="300px" />
+</p>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -67,7 +69,7 @@
 
 ---
 
-<!-- WAVE FOOTER WITH GRADIENT -->
-<div class="wave-background">
+<!-- WAVE FOOTER -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/vann666/vann666/main/assets/wave-dark-bottom.svg" width="100%" height="150px"/>
-</div>
+</p>
